@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @jackhsu77
-- this is a test repo
 - 
